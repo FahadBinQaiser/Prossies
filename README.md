@@ -1,14 +1,16 @@
-Prossies
+# Prossies
+
 A conversion-focused SaaS landing page designed to showcase product and convert leads.
 
-Description
+## Description:
+
 Prossies is a modern and responsive SaaS landing page built using:
 
-⚪ Vite
-⚪ React
+⚪ Vite  
+⚪ React  
 ⚪ Tailwind CSS
 
-Features:
+## Features:
 
 - Navbar section
 - Hero section
@@ -20,8 +22,10 @@ Features:
 - CTA section
 - Footer section
 
-Deployment
-Deployed on Vercel: Prossies (update with actual link when deployed)
+## Deployment
 
-License
+Deployed on Vercel: Prossies [(https://prossies.vercel.app/)]
+
+## License
+
 This project is licensed under the MIT License.
