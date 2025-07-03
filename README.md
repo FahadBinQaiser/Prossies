@@ -24,7 +24,7 @@ Prossies is a modern and responsive SaaS landing page built using:
 
 ## Deployment
 
-Deployed on Vercel: Prossies [(https://prossies.vercel.app/)]
+Deployed on Vercel: Prossies [https://prossies.vercel.app/]
 
 ## License
 
